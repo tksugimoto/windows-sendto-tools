@@ -7,6 +7,8 @@
 	`[[C:\Program Files\Git|file:///C:/Program Files/Git]]`
 * File URI  
 	`file://localhost/C:/Program%20Files/Git`
+* Box  
+	`%USERPROFILE%\Box\aaa\bbb\ccc.txt`
 
 ## セットアップ
 1. このリポジトリをCloneする
@@ -18,3 +20,4 @@
 	* パスをfile-URI書式でコピー.cmd
 	* パスをHikiWiki書式でコピー.cmd
 	* パスをMarkdown書式でコピー.cmd
+	* パスをBox共有用にコピー.cmd

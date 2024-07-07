@@ -5,6 +5,7 @@
 	* Markdown書式
 	* Hiki(Wikiクローン)書式
 	* File URI書式
+	* Box共有用(`%USERPROFILE%\Box\`)
 * Hash計算
 	* MD5
 	* SHA1
